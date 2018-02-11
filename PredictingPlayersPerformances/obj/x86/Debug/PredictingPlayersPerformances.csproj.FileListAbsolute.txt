@@ -1,0 +1,10 @@
+C:\Users\Vuk\Desktop\ORI\PredictingPlayersPerformances\PredictingPlayersPerformances\bin\Debug\PredictingPlayersPerformances.exe
+C:\Users\Vuk\Desktop\ORI\PredictingPlayersPerformances\PredictingPlayersPerformances\bin\Debug\PredictingPlayersPerformances.pdb
+C:\Users\Vuk\Desktop\ORI\PredictingPlayersPerformances\PredictingPlayersPerformances\obj\x86\Debug\PredictingPlayersPerformances.exe
+C:\Users\Vuk\Desktop\ORI\PredictingPlayersPerformances\PredictingPlayersPerformances\obj\x86\Debug\PredictingPlayersPerformances.pdb
+C:\Users\Vuk\Desktop\ORI\PredictingPlayersPerformances\PredictingPlayersPerformances\obj\x86\Debug\PredictingPlayersPerformances.csprojResolveAssemblyReference.cache
+C:\Users\Vuk\Desktop\PredictingPlayersPerformances\PredictingPlayersPerformances\obj\x86\Debug\PredictingPlayersPerformances.exe
+C:\Users\Vuk\Desktop\PredictingPlayersPerformances\PredictingPlayersPerformances\obj\x86\Debug\PredictingPlayersPerformances.pdb
+C:\Users\Vuk\Desktop\PredictingPlayersPerformances\PredictingPlayersPerformances\bin\Debug\PredictingPlayersPerformances.exe
+C:\Users\Vuk\Desktop\PredictingPlayersPerformances\PredictingPlayersPerformances\bin\Debug\PredictingPlayersPerformances.pdb
+C:\Users\Vuk\Desktop\PredictingPlayersPerformances\PredictingPlayersPerformances\obj\x86\Debug\PredictingPlayersPerformances.csprojResolveAssemblyReference.cache
